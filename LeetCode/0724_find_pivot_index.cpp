@@ -1,3 +1,6 @@
+// 724 - Find Pivot Index
+// Complexity: O(n)
+
 int pivotIndex(vector<int>& nums) {
         
     int size = nums.size(), total = 0;
