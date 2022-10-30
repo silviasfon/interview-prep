@@ -1,3 +1,6 @@
+// 1480 - Running Sum of 1d Array
+// Complexity: O(n)
+
 vector<int> runningSum(vector<int>& nums) {
         
     int acc = 0;
