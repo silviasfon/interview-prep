@@ -1,5 +1,6 @@
 // 1480 - Running Sum of 1d Array
-// Complexity: O(n)
+// Time complexity: O(n)
+// Space complexity: O(n)
 
 vector<int> runningSum(vector<int>& nums) {
         

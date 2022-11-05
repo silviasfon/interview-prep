@@ -1,5 +1,6 @@
 // 1365 - How Many Numbers Are Smaller Than the Current Numbe
-// Complexity: O(n)
+// Time complexity: O(n)
+// Space complexity: O(n+k), k being the amount of numbers in count
 
 vector<int> smallerNumbersThanCurrent(vector<int>& nums) {
 
