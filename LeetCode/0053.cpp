@@ -1,5 +1,6 @@
 // 53 - Maximum Subarray
-// Complexity: O(n)
+// Time complexity: O(n)
+// Space complexity: O(1)
 
 int maxSubArray(vector<int>& nums) {
     int maxSum = -10005;

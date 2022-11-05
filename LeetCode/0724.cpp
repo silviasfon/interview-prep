@@ -1,5 +1,6 @@
 // 724 - Find Pivot Index
-// Complexity: O(n)
+// Time complexity: O(n)
+// Space complexity: O(1)
 
 int pivotIndex(vector<int>& nums) {
         

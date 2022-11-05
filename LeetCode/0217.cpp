@@ -1,5 +1,6 @@
 // 217 - Contains Duplicate
-// Complexity: O(n)
+// Time complexity: O(n*log n)
+// Space complexity: O(1) 
 
 bool containsDuplicate(vector<int>& nums) {    
     sort(nums.begin(), nums.end());

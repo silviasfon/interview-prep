@@ -1,5 +1,6 @@
 // 1832 - Check if the Sentence Is Pangram
-// Complexity: O(n)
+// Time complexity: O(n+a), a being the size of the alphabet
+// Space complexity: O(a), a being the size of the alphabet
 
 bool checkIfPangram(string sentence) {
 

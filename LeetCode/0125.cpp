@@ -1,5 +1,6 @@
 // 125 - Valid Palindrome
-// Complexity: O(n)
+// Time complexity: O(n)
+// Space complexity: O(1)
 
 bool isPalindrome(string s) {
 
